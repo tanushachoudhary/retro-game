@@ -251,7 +251,7 @@ export default function App() {
         <div className="text-white text-2xl font-semibold bottom-8 left-20 absolute z-10">
           <p>⨂Collect coins and dodge fireballs</p>
           <p>⨂You are given three lives</p>
-          <p>⨂Each coin is worth 20 points</p>
+          <p>⨂Each coin is worth 10 points</p>
         </div>
 
         {collectibles.map(
